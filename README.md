@@ -66,12 +66,12 @@ Please just join as contributor
 Made with love 🧡 by Skillstest lab 
 
 ## Developers 
-[Mokter Hossain](https://www.linkedin.com/in/mr-mokter/)
-[Rayan Chowdhury Bioy](https://www.linkedin.com/in/rayhan-chowdhury-bijoy-b787ab224/)
-[Tajul Islam](#)
-[Adam Levine](#)
-[Sonia Sabherwal](https://www.linkedin.com/in/sonia-sabherwal-28154b45/)
-[Arab Hossain](https://www.linkedin.com/in/arabhossain/)
+[Mokter Hossain](https://www.linkedin.com/in/mr-mokter/)\
+[Rayan Chowdhury Bioy](https://www.linkedin.com/in/rayhan-chowdhury-bijoy-b787ab224/)\
+[Tajul Islam](#)\
+[Adam Levine](#)\
+[Sonia Sabherwal](https://www.linkedin.com/in/sonia-sabherwal-28154b45/)\
+[Arab Hossain](https://www.linkedin.com/in/arabhossain/)\
 
 
 
