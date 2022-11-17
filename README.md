@@ -63,7 +63,7 @@ Contact us
 ## Do you want to contribute ? 
 Please just join as contributor 
 
-Made with love 🧡 by moksy lab 
+Made with love 🧡 by Skillstest lab 
 
 ## Developers 
 [Mokter Hossain](https://www.linkedin.com/in/mr-mokter/)
@@ -71,6 +71,8 @@ Made with love 🧡 by moksy lab
 [Tajul Islam](#)
 [Adam Levine](#)
 [Sonia Sabherwal](https://www.linkedin.com/in/sonia-sabherwal-28154b45/)
+[Arab Hossain](https://www.linkedin.com/in/arabhossain/)
+
 
 
 ## 🙏 Thank you 🙏
