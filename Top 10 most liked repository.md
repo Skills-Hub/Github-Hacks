@@ -1,4 +1,4 @@
-## Most Stars
+## Most Liked Repository
 There are lots of amazing projects and the star rating keeps changing by the time I have checked these are the top 10 most liked projects
 
 
