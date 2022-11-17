@@ -71,8 +71,7 @@ Made with love 🧡 by Skillstest lab
 [Tajul Islam](#)\
 [Adam Levine](#)\
 [Sonia Sabherwal](https://www.linkedin.com/in/sonia-sabherwal-28154b45/)\
-[Arab Hossain](https://www.linkedin.com/in/arabhossain/)\
-
+[Arab Hossain](https://www.linkedin.com/in/arabhossain/)
 
 
 ## 🙏 Thank you 🙏
