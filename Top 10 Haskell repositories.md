@@ -1,4 +1,4 @@
-## Haskell
+## Top 10 Haskell repositories
 
 This is top 10, for more click **[Top 100 Stars in Haskell](Top100/Haskell.md)**
 
