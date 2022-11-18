@@ -1,4 +1,4 @@
-## JavaScript
+##  Top 10 JavaScript repositories
 
 This is top 10, for more click **[Top 100 Stars in JavaScript](Top100/JavaScript.md)**
 
