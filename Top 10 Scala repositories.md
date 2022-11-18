@@ -1,4 +1,4 @@
-## Scala
+## Top 10 Scala repositories
 
 This is top 10, for more click **[Top 100 Stars in Scala](Top100/Scala.md)**
 
