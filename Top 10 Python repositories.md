@@ -1,5 +1,5 @@
 
-## Python
+##  Top 10 Python repositories
 
 This is top 10, for more click **[Top 100 Stars in Python](Top100/Python.md)**
 
