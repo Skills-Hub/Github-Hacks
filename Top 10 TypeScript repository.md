@@ -1,5 +1,5 @@
 
-## TypeScript
+##  Top 10 TypeScript repository
 
 This is top 10, for more click **[Top 100 Stars in TypeScript](Top100/TypeScript.md)**
 
