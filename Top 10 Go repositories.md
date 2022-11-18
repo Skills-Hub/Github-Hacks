@@ -1,4 +1,4 @@
-## Go
+## Top 10 Go repositories
 
 This is top 10, for more click **[Top 100 Stars in Go](Top100/Go.md)**
 
