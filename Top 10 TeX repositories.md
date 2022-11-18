@@ -1,4 +1,4 @@
-## TeX
+## Top 10 TeX repositories
 
 This is top 10, for more click **[Top 100 Stars in TeX](Top100/TeX.md)**
 
