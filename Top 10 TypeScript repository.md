@@ -5,7 +5,7 @@ This is top 10, for more click **[Top 100 Stars in TypeScript](Top100/TypeScript
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 357113 | 30428 | TypeScript | 139 | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. | `r Sys.Date()` |
+| 1 | [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 357113 | 30428 | TypeScript | 139 | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. | `r format(Sys.Date(), "%d. %B %Y")` |
 | 2 | [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | 218323 | 31544 | TypeScript | 153 | Interactive roadmaps, guides and other educational content to help developers grow in their careers. | [current year] |
 | 3 | [vue](https://github.com/vuejs/vue) | 200726 | 33042 | TypeScript | 340 | 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. | [current year] |
 | 4 | [vscode](https://github.com/microsoft/vscode) | 139191 | 23992 | TypeScript | 7685 | Visual Studio Code | [current year] |
