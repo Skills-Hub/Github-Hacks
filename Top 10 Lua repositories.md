@@ -1,4 +1,4 @@
-## Lua
+##  Top 10 Haskell repositories
 
 This is top 10, for more click **[Top 100 Stars in Lua](Top100/Lua.md)**
 
