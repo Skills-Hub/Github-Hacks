@@ -1,4 +1,4 @@
-## Rust
+##  Top 10 Rust repositories
 
 This is top 10, for more click **[Top 100 Stars in Rust](Top100/Rust.md)**
 
